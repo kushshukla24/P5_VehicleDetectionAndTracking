@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+*.mp4
+*.zip
+output_images/*
