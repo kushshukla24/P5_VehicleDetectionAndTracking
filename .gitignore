@@ -3,3 +3,5 @@
 *.zip
 vehicles/*
 non-vehicles/*
+__MACOSX/*
+output_images/*
