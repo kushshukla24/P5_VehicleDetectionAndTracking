@@ -4,7 +4,7 @@
 
 **Vehicle Detection Project**
 
-A Self-driving car needs to detect other vehicles on the road to safely drive. The goal of this project is to detect other vehicles on the road using images from the roof top-mounted camera on self driving car.
+Self-driving car needs to detect other vehicles on the road to safely drive. The goal of this project is to detect other vehicles on the road using images from the roof top-mounted camera on self driving car.
 
 The goals / steps of this project are the following:
 
@@ -99,10 +99,10 @@ Here's an image showing the heatmap from a test image 1, the result of `scipy.nd
 
 ![alt text][image6]
 
-### Here is the output of `scipy.ndimage.measurements.label()` on the integrated heatmap from all six frames:
+### Here is the output of `scipy.ndimage.measurements.label()` on the integrated heatmap from test image:
 ![alt text][image7]
 
-### Here the resulting bounding boxes are drawn onto the last frame in the series:
+### Here the resulting bounding boxes are drawn onto the test image:
 ![alt text][image8]
 
 
